@@ -1,4 +1,40 @@
-site_name: My MkDocs Material Documentation
-site_url: https://sitename.example
+docs_dir: docs
+repo_name: "Feather on GitHub"
+site_name: Feather Docs
+repo_url: https://github.com/khcrysalis/Feather
 theme:
+  custom_dir: overrides
+  icon:
+    repo: simple/github
+    logo: fontawesome/solid/feather-pointed
+    admonition:
+      note: octicons/book-24
+      tip: material/dns
+      abstract: fontawesome/solid/question
+      success: material/emoticon-confused-outline
+  features:
+    - navigation.footer
+  font:
+    text: Merriweather Sans
+    code: Red Hat Mono
   name: material
+  palette:
+      scheme: slate
+      primary: indigo
+      accent: deep purple
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: simple/github
+      link: https://github.com/khcrysalis/Feather
+
+copyright: ""

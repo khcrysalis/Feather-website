@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Welcome to Feather
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is the documentation site for [Feather](https://github.com/khcrysalis/Feather).
 
-## Commands
+Feather is a free, on-device iOS application manager/installer, using certificates part of the Apple Developer Program. This documentation, along with Feather itself, is open-source under the [GPL-3.0](https://github.com/khcrysalis/Feather/blob/main/LICENSE) license.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+For more on Feather, such as features and an overview of how it works, see [the README](https://github.com/khcrysalis/Feather/blob/main/README.md).
 
-## Project layout
+This site is for Feather's documentation; guides that show you how to install and set up the app. See the sidebar for the specific guides, or alterantively use the search bar above to find the information you're looking for.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+We encourage contributions, but please see the [contributing overview](https://github.com/khcrysalis/Feather/blob/main/CONTRIBUTING.md) & the [code of conduct](https://github.com/khcrysalis/Feather/blob/main/CODE_OF_CONDUCT.md) before making a pull request.
+
+Building on that, this wiki is a work in progress, and if you have any suggestions please [make an issue](https://github.com/khcrysalis/Feather/issues). Better yet, [contribute](https://github.com/khcrysalis/Feather/blob/main/CONTRIBUTING.md) your changes.
+
+!!! note ""
+
+    Do you need help? Open an [issue](https://github.com/khcrysalis/Feather/issues/new/choose) on GitHub!
