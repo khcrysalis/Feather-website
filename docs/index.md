@@ -15,3 +15,5 @@ Building on that, this wiki is a work in progress, and if you have any suggestio
 !!! note ""
 
     Do you need help? Open an [issue](https://github.com/khcrysalis/Feather/issues/new/choose) on GitHub!
+
+![Feather](https://raw.githubusercontent.com/khcrysalis/Feather/9641d86c00263700487bfce243370fcdc7d28537/Images/Image-dark.png)
